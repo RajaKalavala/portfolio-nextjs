@@ -56,3 +56,11 @@ npm install framer-motion
 ```
 
 Link - [Framer Motion](https://www.framer.com/developers/)
+
+## Add React Simple Typewriter
+
+```bash
+npm i react-simple-typewriter
+```
+
+Link - [React Simple Typewriter](https://www.npmjs.com/package/react-simple-typewriter)
