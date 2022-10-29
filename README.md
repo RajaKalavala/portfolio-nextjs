@@ -48,3 +48,11 @@ npm install react-social-icons
 ```
 
 Link - [React Social Icons](https://www.npmjs.com/package/react-social-icons)
+
+## Add Framer Motion
+
+```bash
+npm install framer-motion
+```
+
+Link - [Framer Motion](https://www.framer.com/developers/)
