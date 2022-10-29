@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Create NextJS Project:
+
+```bash
+npx create-next-app@latest --typescript portfolio-nextjs
+# or
+yarn create next-app --typescript
+```
+
 First, run the development server:
 
 ```bash
