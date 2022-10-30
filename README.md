@@ -64,3 +64,11 @@ npm i react-simple-typewriter
 ```
 
 Link - [React Simple Typewriter](https://www.npmjs.com/package/react-simple-typewriter)
+
+## Install HeroIcons
+
+```bash
+npm install @heroicons/react
+```
+
+Link - [HeroIcons](https://heroicons.com/)
