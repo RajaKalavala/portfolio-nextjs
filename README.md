@@ -57,3 +57,11 @@ npm install react-hook-form
 ```
 
 Link - [React Hooks Form](https://react-hook-form.com/get-started)
+
+## Install TailwindCSS Scrollbar
+
+```bash
+npm i tailwind-scrollbar
+```
+
+Link - [Scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)
