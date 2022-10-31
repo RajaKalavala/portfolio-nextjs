@@ -65,3 +65,12 @@ npm i tailwind-scrollbar
 ```
 
 Link - [Scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)
+
+## Setup Sanity
+
+```bash
+npm install -g @sanity/cli
+sanity init
+```
+
+Link - [Sanity.io](https://www.sanity.io/sonny)
