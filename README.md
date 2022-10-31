@@ -73,10 +73,18 @@ npm install -g @sanity/cli
 sanity init
 ```
 
-###Deploy Sanity
+Link - [Sanity.io](https://www.sanity.io/sonny)
+
+- Deploy Sanity
 
 ```bash
 deploy sanity
 ```
 
-Link - [Sanity.io](https://www.sanity.io/sonny)
+- Install next-sanity
+
+```bash
+npm install next-sanity @portabletext/react @sanity/image-url
+```
+
+Link - [next-sanity](https://github.com/sanity-io/next-sanity)
