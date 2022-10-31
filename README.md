@@ -73,4 +73,10 @@ npm install -g @sanity/cli
 sanity init
 ```
 
+###Deploy Sanity
+
+```bash
+deploy sanity
+```
+
 Link - [Sanity.io](https://www.sanity.io/sonny)
